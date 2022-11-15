@@ -1,2 +1,2 @@
-# FIB-EDA (The content will be soon updated)
+# FIB-EDA (The content will be updated soon)
 Soon...
